@@ -1,3 +1,3 @@
 {
-    "mongoURI": "mongodb+srv://alex123:alex123@merndevconnecter-2hd0d.mongodb.net/admin?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://alex123:alex123@merndevconnecter-2hd0d.mongodb.net/test?retryWrites=true&w=majority"
 }
