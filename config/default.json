@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://alex123:alex123@merndevconnecter-2hd0d.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "thisismysecretandyouwillneverguessit"
+    "jwtSecret": "thisismysecretandyouwillneverguessit",
+    "githubClientId": "1513b0c4306b98a66075",
+    "githubSecret": "b156f90d0a99fe5584d04ddc874bcaf7268ccdf5"
 }
